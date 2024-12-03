@@ -1,0 +1,12 @@
+name: OldFaithfulGeyser
+title: OldFaithfulGeyser
+username: stephaniehicks
+account: stephaniehicks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13506964
+bundleId: 9453524
+url: https://stephaniehicks.shinyapps.io/OldFaithfulGeyser/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
